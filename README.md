@@ -47,7 +47,5 @@ The goal isn't just to write code—it's about testing my consistency, pushing m
 | 25 | [Mirror Word Check (String / Palindrome)](./day-25) |
 | 26 | [Interdimensional Trade Routes (All-Pairs Shortest Path — Floyd-Warshall)](./day-26) |
 | 27 | [Code Letter Counter (String Counting)](./day-27) |
-
-
-
 | 28 | [The Missing Preservation Entry (Bit Manipulation — XOR)](./day-28) |
+
