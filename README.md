@@ -50,3 +50,4 @@ The goal isn't just to write code—it's about testing my consistency, pushing m
 
 
 
+| 28 | [The Missing Preservation Entry (Bit Manipulation — XOR)](./day-28) |
