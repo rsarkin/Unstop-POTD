@@ -49,3 +49,4 @@ The goal isn't just to write code—it's about testing my consistency, pushing m
 | 27 | [Code Letter Counter (String Counting)](./day-27) |
 | 28 | [The Missing Preservation Entry (Bit Manipulation — XOR)](./day-28) |
 
+| 29 | [Subtree Score Spread](./day-29) |
